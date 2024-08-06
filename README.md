@@ -63,7 +63,7 @@ my-project/
 ├── app.py                 # Main script
 ├── README.md              # Project documentation
 ├── requirements.txt       # List of dependencies
-├── .env.example           # Example environment variables file
+├── .env                   # Example environment variables file
 └── sample/                # Directory for downloaded audio files
    └── example.wav
 ```
